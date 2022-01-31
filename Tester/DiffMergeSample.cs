@@ -6,6 +6,7 @@ using System.IO;
 using System.Text;
 using System.Windows.Forms;
 using FastColoredTextBoxNS;
+using Range = FastColoredTextBoxNS.Range;
 using Tester.DiffMergeStuffs;
 
 namespace Tester
